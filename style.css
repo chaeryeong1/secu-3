@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap');
+
+html > body{
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight:400;
+}
+
+.con{
+  width:auto;
+  height:auto;
+  margin:0 auto;
+   width:1280px;
+   height:auto;
+  margin:0 auto;
+
+}
+
+
+ui li{
+  list-style-type:none;
+}
+/*푸터바*/
+.footer>ui{
+  padding-left:90px;
+  padding-top:30px;
+  padding-bottom:30px;
+ 
+  align-content: center;
+  background-color:white;
+  box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.13);}
+
+.footer>ui>.footer-logo{
+  font-size:30px;
+  padding-right:150px;
+  font-weight:700;
+}
+.footer>ui>.footer-f1{
+  font-size:16px;
+  padding-top:10px;
+  padding-right:70px;
+  
+}
+.footer>ui>.footer-f2{
+  font-size:16px;
+   padding-top:10px;
+  padding-right:70px;
+  font-weight:700;
+}
+.footer>ui>.footer-f3{
+  font-size:16px;
+   padding-top:10px;
+  padding-right:70px;
+}
+
+.box-1_1{
+  width:1280px;
+  height:auto;
+  
+   
+}
+
+
+.box-1_1>.img-12{
+  top:5199px;
+  left:0px;
+}
+.box-1_1>.img-13{
+  top:5339px;
+  left:280px;
+}
+
+.box-1_1>.img-14{
+  top:5339px;
+  left:365px;
+}
+.box-1_1>.img-15{
+  top:5339px;
+  left:505px;
+}
+.box-1_1>.img-16{
+  top:5345px;
+  left:590px;
+}
+.box-1_1>.img3-bg{
+ top:429px;
+}
+.box-1_1>.img3-1{
+  top:90px;
+  left: 90px;
+ }
+ .box-1_1>.img3-2{
+  left: 312px;
+ }
+ .box-1_1>.img3-3{
+  top: 479px;
+  left: 60px;
+ }
+ .box-1_1>.img3-4{
+  top: 564px;
+  left: 60px;
+ }
+ .box-1_1>.img3-5{
+  top: 965px;
+  left: 478px;
+ }
+ .box-1_1>.img3-6{
+  top: 1113px;
+  left: 200px;
+ }
+ .box-1_1>.img3-7{
+  top: 1763px;
+  left: 354px;
+ }
+ .box-1_1>.img3-8{
+  top: 1959px;
+  left: 200px;
+ }
+ .box-1_1>.img3-9{
+  top: 2602px;
+  left: 579px;
+ }
+ 
+ .box-1_1>.img3-10{
+  top: 2731px;
+  left: 150px;
+ }
+ .box-1_1>.img3-11{
+  top: 3551px;
+  left: 348px;
+ }
+
+ .box-1_1>.img3-12{
+  top: 4579px;
+  left: 516px;
+ }
+ .box-1_1>.img3-13{
+  top: 4723px;
+  left: 208px;
+ }
+ .box-1_1>.img3-14{
+  top: 4723px;
+  left: 538px;
+ }
+ .box-1_1>.img3-15{
+  top: 4723px;
+  left: 868px;
+ }
